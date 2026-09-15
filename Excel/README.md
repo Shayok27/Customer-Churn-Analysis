@@ -1,1 +1,2 @@
-This folder contains the cleaned Excel workbook and Pivot Table analysis.
+# Excel Analysis
+This folder contains the Excel files used for data cleaning, pivot tables, and customer churn analysis.
